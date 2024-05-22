@@ -1,0 +1,1 @@
+After extracting, click in "ALLMONSTERS--main--1--main--main" and you will see another folder that have same name, click in that, take out the ghef.db folder and put it under the first "ALLMONSTERS--main--1--main--main" folder
